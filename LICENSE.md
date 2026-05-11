@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with DaVinci Resolve for macOS smart Script: subtitle-generator & compressor, the #1 script. Includes subtitle-generator and compressor for a
 
 
 
